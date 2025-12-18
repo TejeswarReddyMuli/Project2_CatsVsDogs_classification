@@ -1,1 +1,1 @@
-# Project2_CatsVsDogs
+# Project2_CatsVsDogs_classification
